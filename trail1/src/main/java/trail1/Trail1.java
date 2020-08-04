@@ -8,8 +8,6 @@ public class Trail1 extends class2{
 		class2 a=new class2();
 		pr();
 
-	int p=1231_2;
-	
 		
 	}
 
