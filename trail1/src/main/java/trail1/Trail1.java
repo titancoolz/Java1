@@ -11,7 +11,7 @@ public class Trail1 extends class2{
 		char a=33;
 		char b= 1;
 
-		System.out.print(a+b"sss");
+		System.out.print(a+b"ssas");
 	}
 
 }
