@@ -10,8 +10,6 @@ public class Trail1 extends class2{
 		//pr();
 		char a=33;
 		char b= 1;
-		char q=111;
-		char c=1;
 
 		System.out.print(a+b);
 	}
